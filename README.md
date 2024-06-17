@@ -9,7 +9,9 @@
 - close/Open Video
 - Mute/UnMute Audio
 
+![Login page](https://raw.githubusercontent.com/prankas/VEDIO_APP/main/image.png)
 
+![Live](https://raw.githubusercontent.com/prankas/VEDIO_APP/main/mq.png)
 ## Test 
 - Windows
 
